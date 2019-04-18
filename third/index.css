@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+
+.boxOne {
+    width: auto;
+    height: 80px;
+    padding: 10px;
+    background: #ccc;
+}
+
+.boxInsider {
+    width: 80px;
+    height: 80px;
+    margin: 0 10px;
+    background: #4d92df
+}
+
+p {
+    line-height: 1.3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333
+}
+.boxTwo {
+    width: auto;
+    height: 250px;
+    padding: 60px 40px;
+    background: white;
+    box-sizing: border-box;
+}
+
+.boxSizer {
+    width: auto;
+    height: 150px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.boxThree {
+    background: #4d92df;
+}
+
+.boxFour {
+    background: #57e2c2;
+}
+
+.boxFive {
+    background: #b9e88b;
+}
+
+.boxSix {
+    background: #f7e63b;
+}
