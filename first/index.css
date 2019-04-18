@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    height: 20vh;
+    background: gray;
+}
+
+.container {
+    background: lightgrey;
+    height: 80vh;
+}
+
+.content {
+    width: 80%;
+    height: 70vh;
+    background: white;
+    margin: 0 10%;
+}
+
+.footer {
+    width: 80%;
+    height: 10vh;
+    background: black;
+    margin: 0 10%
+}
