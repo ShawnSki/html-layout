@@ -1,0 +1,70 @@
+body {
+    margin: 0px;
+    padding: 20px;
+}
+
+.header {
+    width: auto;
+    border: 3px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.purpleRect {
+    height: 120px;
+    width: 50px;
+    background: purple;
+    display: inline-block;
+}
+
+.greenRect {
+    height: 150px;
+    width: 450px;
+    margin: 0 40px;
+    background: green;
+    display: inline-block;
+}
+
+.blueCirc {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: lightblue;
+    display: inline-block;
+}
+
+
+
+
+
+.content {
+    width: auto;
+    height: 30vh;
+    margin: 20px 0;
+    background: white;
+    border: 3px dotted black;
+    box-sizing: border-box
+}
+
+.footer {
+    width: auto%;
+    height: 45vh;
+    margin: 20px 25%;
+    background: white;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 2px #ccc;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 8px;
+    padding: 20%;
+}
+
+.yellerBox {
+    width: 90%;
+    height: 150px;
+    margin: 5%;
+    background: lightyellow;
+    box-shadow: 5px 5px 2px #333;
+}
